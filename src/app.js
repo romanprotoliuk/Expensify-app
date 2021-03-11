@@ -47,3 +47,5 @@ firebase.auth().onAuthStateChanged((user) => {
     history.push('/')
   }
 })
+
+// new updates
